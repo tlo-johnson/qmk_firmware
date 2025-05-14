@@ -16,7 +16,7 @@
 
 #pragma once
 
-#define TAPPING_TERM 150
+#define TAPPING_TERM 100
 
 /* Caps lock LED */
 #define LED_CAPS_LOCK_PIN A13
