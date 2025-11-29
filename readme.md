@@ -1,3 +1,7 @@
+# Keyboards
+
+For the keychron k3 max keyboard you want to switch to the wireless_playground branch and follow the instructions there.
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
